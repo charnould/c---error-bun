@@ -1,0 +1,13 @@
+{
+  "module": "index.ts",
+  "main": "index.ts",
+  "dependencies": {
+    "hono": "^3.5.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.5.0",
+    "@typescript-eslint/parser": "^6.5.0",
+    "typescript": "^5.2.2",
+    "bun-types": "^0.8.1"
+  }
+}
